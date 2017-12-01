@@ -17,7 +17,7 @@ The goals / steps of this project are the following:
 [//]: # (Image References)
 
 [NVIDIA_model]: ./examples/cnn-architecture-624x890.png "NIVIDIA Model"
-[Mymodel]: ./examples/model.png "Model Visualization"
+[Mymodel]: ./examples/Model.png "Model Visualization"
 [Center]: ./examples/center.png "Center Image"
 [Crop]: ./examples/center_cropped.png "Cropped Image"
 [Resize]: ./examples/center_cropped_resized.png "Resized Image"

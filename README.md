@@ -14,6 +14,8 @@
 [MSE]: ./examples/figure_new_30_32_05_025_001_resize_BETTER.png "MSE"
 [Reuslt_Gif]: ./run_final_gif.gif "Result_Gif"
 
+** My result: **
+![alt text][Reuslt_Gif]
 ---
 
 **Behavioral Cloning Project**
@@ -26,10 +28,6 @@ The goals / steps of this project are the following:
 * Summarize the results with a written report
 
 
-![alt text][Reuslt_Gif]
-
-## Rubric Points
-### Here I will consider the [rubric points](https://review.udacity.com/#!/rubrics/432/view) individually and describe how I addressed each point in my implementation.  
 
 ---
 ### Files Submitted & Code Quality

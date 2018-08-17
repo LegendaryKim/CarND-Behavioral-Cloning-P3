@@ -120,12 +120,12 @@ To capture good driving behavior, I used the data from Udacity. Here is an examp
 
 ![alt text][Center]
 
-The training set included a lot of small steering angles, and I dropped the data with smaller steering angles than $ 0.01 ^{\circ}$ randomly with 50% probability.
+The training set included a lot of small steering angles, and I dropped the data with smaller steering angles than 0.01° randomly with 50% probability.
 
 To argument the data set, I also flipped images and steering angles:
 ![alt text][flip]
 
-Furthermore, the images of left and right cameras also were included with corrected steering angles ($ \pm 25 ^{\circ}$):
+Furthermore, the images of left and right cameras also were included with corrected steering angles (±25°):
 ![alt text][Center_Left_Right]
 
 After the collection process, I had 27872 number of data points. I then preprocessed this data by cropping and resizing them to 64 by 64.

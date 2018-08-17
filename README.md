@@ -92,7 +92,7 @@ The model used an adam optimizer, so the learning rate was not tuned manually.
 
 #### Appropriate training data
 
-Training data provided by Udacity was chosen to keep the vehicle driving on the road as three images: center, left and right cameras. The left and right images are utilized with correction angles $\pm 0.25^{\circ}$. Also, to control the biased steering_correction, I dropped out 50% of small steering angle data. All data was flipped to make the model follow clickwise curves properly (the training data is mainly counter-clickwise curved)
+Training data provided by Udacity was chosen to keep the vehicle driving on the road as three images: center, left and right cameras. The left and right images are utilized with correction angles ±25°. Also, to control the biased steering_correction, I dropped out 50% of small steering angle data. All data was flipped to make the model follow clickwise curves properly (the training data is mainly counter-clickwise curved)
 
 For details about how I created the training data, see the next section. 
 

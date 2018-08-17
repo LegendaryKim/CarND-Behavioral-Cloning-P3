@@ -14,7 +14,8 @@
 [MSE]: ./examples/figure_new_30_32_05_025_001_resize_BETTER.png "MSE"
 [Reuslt_Gif]: ./run_final_gif.gif "Result_Gif"
 
-Result:
+My Result:
+
 ![alt text][Reuslt_Gif]
 
 ---

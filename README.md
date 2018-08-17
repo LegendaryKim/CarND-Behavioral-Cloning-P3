@@ -1,12 +1,18 @@
-<<<<<<< HEAD
 # Udacity - Self-Driving Car NanoDegree: Behaviorial Cloning Project
-||||||| merged common ancestors
-# Behaviorial Cloning Project
-=======
-# **Behavioral Cloning** 
->>>>>>> 548e0e72226fd93adafecd7f0313dfe46152dfd1
 
 ## Writeup
+
+[//]: # (Image References)
+
+[NVIDIA_model]: ./examples/cnn-architecture-624x890.png "NIVIDIA Model"
+[Mymodel]: ./examples/Model.png "Model Visualization"
+[Center]: ./examples/center.png "Center Image"
+[Crop]: ./examples/center_cropped.png "Cropped Image"
+[Resize]: ./examples/center_cropped_resized.png "Resized Image"
+[flip]: ./examples/center_flipped.png "Flipped Image"
+[Center_Left_RIght]: ./examples/Center_Left_Right.png "Center, Left, Right Images"
+[MSE]: ./examples/figure_new_30_32_05_025_001_resize_BETTER.png "MSE"
+[Reuslt_Gif]: ./run_final_gif.gif "Result_Gif"
 
 ---
 
@@ -20,16 +26,7 @@ The goals / steps of this project are the following:
 * Summarize the results with a written report
 
 
-[//]: # (Image References)
-
-[NVIDIA_model]: ./examples/cnn-architecture-624x890.png "NIVIDIA Model"
-[Mymodel]: ./examples/Model.png "Model Visualization"
-[Center]: ./examples/center.png "Center Image"
-[Crop]: ./examples/center_cropped.png "Cropped Image"
-[Resize]: ./examples/center_cropped_resized.png "Resized Image"
-[flip]: ./examples/center_flipped.png "Flipped Image"
-[Center_Left_RIght]: ./examples/Center_Left_Right.png "Center, Left, Right Images"
-[MSE]: ./examples/figure_new_30_32_05_025_001_resize_BETTER.png "MSE"
+![alt text][NVIDIA_model]
 
 ## Rubric Points
 ### Here I will consider the [rubric points](https://review.udacity.com/#!/rubrics/432/view) individually and describe how I addressed each point in my implementation.  

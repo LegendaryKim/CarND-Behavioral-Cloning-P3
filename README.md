@@ -26,7 +26,7 @@ The goals / steps of this project are the following:
 * Summarize the results with a written report
 
 
-![alt text][NVIDIA_model]
+![alt text][Reuslt_Gif]
 
 ## Rubric Points
 ### Here I will consider the [rubric points](https://review.udacity.com/#!/rubrics/432/view) individually and describe how I addressed each point in my implementation.  
